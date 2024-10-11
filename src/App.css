@@ -1,0 +1,12 @@
+/* Change the selection color */
+::selection {
+    background-color: #abb2bf; /* Background color for selected text */
+    color: #000;               /* Text color when selected */
+  }
+  
+  /* For Firefox */
+  ::-moz-selection {
+    background-color: #abb2bf; /* Background color for selected text */
+    color: #000;               /* Text color when selected */
+  }
+  
